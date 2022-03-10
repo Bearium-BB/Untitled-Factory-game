@@ -1,4 +1,4 @@
-# Untitled-Factory-game
+# Untitled-Factory-game control 
 
 Rotation in build mode = O,P
 Crafting menu = I
